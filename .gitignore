@@ -1,0 +1,6 @@
+# The Steam logo is a Valve trademark: it is bundled in the packages but not
+# distributed with the source. Place it at assets/steamLogo.png before building.
+assets/
+pack/
+*.zip
+build/

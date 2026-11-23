@@ -1,0 +1,20 @@
+{
+    "name": "Shell Add to Steam",
+    "description": "Add any application to your Steam library as a non-Steam game from the right-click menu of the App Grid and Dash.",
+    "uuid": "shell-add-to-steam@lsantiagoba",
+    "shell-version": [
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50"
+    ],
+    "version": 1,
+    "gettext-domain": "shell-add-to-steam",
+    "settings-schema": "org.gnome.shell.extensions.shell-add-to-steam",
+    "url": "https://github.com/lsantiagoba/shell-add-to-steam",
+    "donations": {
+        "paypal": "leandrosb3"
+    }
+}

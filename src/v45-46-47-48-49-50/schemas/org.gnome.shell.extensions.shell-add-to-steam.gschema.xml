@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.shell-add-to-steam"
+            path="/org/gnome/shell/extensions/shell-add-to-steam/">
+        <key name="confirm-restart" type="b">
+            <default>true</default>
+            <summary>Confirm before restarting Steam</summary>
+            <description>Ask before closing and reopening a running Steam client to add an application.</description>
+        </key>
+    </schema>
+</schemalist>

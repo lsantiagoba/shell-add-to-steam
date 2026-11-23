@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shell-add-to-steam\n"
+"Language: it\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add to Steam"
+msgstr "Aggiungi a Steam"
+
+msgid "Shell Add to Steam"
+msgstr "Shell Add to Steam"
+
+msgid "%s cannot be added to Steam."
+msgstr "%s non può essere aggiunto a Steam."
+
+msgid "No Steam account was found. Sign in to Steam first."
+msgstr "Nessun account Steam trovato. Accedi prima a Steam."
+
+msgid "%s is already in your Steam library."
+msgstr "%s è già nella tua libreria di Steam."
+
+msgid "Steam did not close in time. Close it and try again."
+msgstr "Steam non si è chiuso in tempo. Chiudilo e riprova."
+
+msgid "%s was added to Steam."
+msgstr "%s è stato aggiunto a Steam."
+
+msgid "Could not add %s to Steam: %s"
+msgstr "Impossibile aggiungere %s a Steam: %s"
+
+msgid "Restart Steam?"
+msgstr "Riavviare Steam?"
+
+msgid "Steam is running. It will be closed to add %s to your library and opened again afterwards."
+msgstr "Steam è in esecuzione. Verrà chiuso per aggiungere %s alla tua libreria e poi riaperto."
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "Restart Steam"
+msgstr "Riavvia Steam"
+
+msgid "Confirm before restarting Steam"
+msgstr "Conferma prima di riavviare Steam"
+
+msgid "Ask before closing a running Steam client to add an app."
+msgstr "Chiedi prima di chiudere Steam in esecuzione per aggiungere un'applicazione."
+
+msgid "Steam was not found."
+msgstr "Steam non trovato."
+
+msgid "Only AppImages and Windows programs (.exe) can be added to Steam."
+msgstr "Solo le AppImage e i programmi Windows (.exe) possono essere aggiunti a Steam."
+
+msgid "%s was added to Steam and will run with Proton."
+msgstr "%s è stato aggiunto a Steam e verrà eseguito con Proton."
+
+msgid "Add to Steam in Files"
+msgstr "Aggiungi a Steam in File"
+
+msgid "Add AppImages and Windows programs (.exe) from right-click > Scripts in Files."
+msgstr "Aggiungi AppImage e programmi Windows (.exe) da clic destro > Script in File."

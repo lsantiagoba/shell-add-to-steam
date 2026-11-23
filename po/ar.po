@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shell-add-to-steam\n"
+"Language: ar\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add to Steam"
+msgstr "إضافة إلى Steam"
+
+msgid "Shell Add to Steam"
+msgstr "Shell Add to Steam"
+
+msgid "%s cannot be added to Steam."
+msgstr "لا يمكن إضافة %s إلى Steam."
+
+msgid "No Steam account was found. Sign in to Steam first."
+msgstr "لم يتم العثور على حساب Steam. سجّل الدخول إلى Steam أولاً."
+
+msgid "%s is already in your Steam library."
+msgstr "%s موجود بالفعل في مكتبة Steam."
+
+msgid "Steam did not close in time. Close it and try again."
+msgstr "لم يُغلق Steam في الوقت المحدد. أغلقه وحاول مرة أخرى."
+
+msgid "%s was added to Steam."
+msgstr "تمت إضافة %s إلى Steam."
+
+msgid "Could not add %s to Steam: %s"
+msgstr "تعذّرت إضافة %s إلى Steam: %s"
+
+msgid "Restart Steam?"
+msgstr "إعادة تشغيل Steam؟"
+
+msgid "Steam is running. It will be closed to add %s to your library and opened again afterwards."
+msgstr "Steam قيد التشغيل. سيتم إغلاقه لإضافة %s إلى مكتبتك ثم فتحه مرة أخرى."
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Restart Steam"
+msgstr "إعادة تشغيل Steam"
+
+msgid "Confirm before restarting Steam"
+msgstr "التأكيد قبل إعادة تشغيل Steam"
+
+msgid "Ask before closing a running Steam client to add an app."
+msgstr "السؤال قبل إغلاق Steam قيد التشغيل لإضافة تطبيق."
+
+msgid "Steam was not found."
+msgstr "لم يتم العثور على Steam."
+
+msgid "Only AppImages and Windows programs (.exe) can be added to Steam."
+msgstr "يمكن إضافة ملفات AppImage وبرامج Windows (.exe) فقط إلى Steam."
+
+msgid "%s was added to Steam and will run with Proton."
+msgstr "تمت إضافة %s إلى Steam وسيعمل باستخدام Proton."
+
+msgid "Add to Steam in Files"
+msgstr "الإضافة إلى Steam من الملفات"
+
+msgid "Add AppImages and Windows programs (.exe) from right-click > Scripts in Files."
+msgstr "أضف ملفات AppImage وبرامج Windows (.exe) بالنقر بزر الفأرة الأيمن > السكربتات في الملفات."

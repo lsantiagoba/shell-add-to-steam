@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shell-add-to-steam\n"
+"Language: ja\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add to Steam"
+msgstr "Steam に追加"
+
+msgid "Shell Add to Steam"
+msgstr "Shell Add to Steam"
+
+msgid "%s cannot be added to Steam."
+msgstr "%s は Steam に追加できません。"
+
+msgid "No Steam account was found. Sign in to Steam first."
+msgstr "Steam アカウントが見つかりません。先に Steam にサインインしてください。"
+
+msgid "%s is already in your Steam library."
+msgstr "%s はすでに Steam ライブラリにあります。"
+
+msgid "Steam did not close in time. Close it and try again."
+msgstr "Steam が時間内に終了しませんでした。Steam を閉じてからもう一度お試しください。"
+
+msgid "%s was added to Steam."
+msgstr "%s を Steam に追加しました。"
+
+msgid "Could not add %s to Steam: %s"
+msgstr "%s を Steam に追加できませんでした: %s"
+
+msgid "Restart Steam?"
+msgstr "Steam を再起動しますか?"
+
+msgid "Steam is running. It will be closed to add %s to your library and opened again afterwards."
+msgstr "Steam が実行中です。%s をライブラリに追加するために Steam を終了し、その後再び起動します。"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Restart Steam"
+msgstr "Steam を再起動"
+
+msgid "Confirm before restarting Steam"
+msgstr "Steam を再起動する前に確認する"
+
+msgid "Ask before closing a running Steam client to add an app."
+msgstr "アプリを追加するために実行中の Steam を終了する前に確認します。"
+
+msgid "Steam was not found."
+msgstr "Steam が見つかりません。"
+
+msgid "Only AppImages and Windows programs (.exe) can be added to Steam."
+msgstr "Steam に追加できるのは AppImage と Windows プログラム (.exe) のみです。"
+
+msgid "%s was added to Steam and will run with Proton."
+msgstr "%s を Steam に追加しました。Proton で実行されます。"
+
+msgid "Add to Steam in Files"
+msgstr "ファイルから Steam に追加"
+
+msgid "Add AppImages and Windows programs (.exe) from right-click > Scripts in Files."
+msgstr "ファイルで右クリック > スクリプトから AppImage と Windows プログラム (.exe) を追加します。"

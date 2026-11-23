@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shell-add-to-steam\n"
+"Language: ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add to Steam"
+msgstr "Добавить в Steam"
+
+msgid "Shell Add to Steam"
+msgstr "Shell Add to Steam"
+
+msgid "%s cannot be added to Steam."
+msgstr "%s нельзя добавить в Steam."
+
+msgid "No Steam account was found. Sign in to Steam first."
+msgstr "Учётная запись Steam не найдена. Сначала войдите в Steam."
+
+msgid "%s is already in your Steam library."
+msgstr "%s уже есть в вашей библиотеке Steam."
+
+msgid "Steam did not close in time. Close it and try again."
+msgstr "Steam не закрылся вовремя. Закройте его и попробуйте снова."
+
+msgid "%s was added to Steam."
+msgstr "%s добавлено в Steam."
+
+msgid "Could not add %s to Steam: %s"
+msgstr "Не удалось добавить %s в Steam: %s"
+
+msgid "Restart Steam?"
+msgstr "Перезапустить Steam?"
+
+msgid "Steam is running. It will be closed to add %s to your library and opened again afterwards."
+msgstr "Steam запущен. Он будет закрыт, чтобы добавить %s в вашу библиотеку, а затем снова открыт."
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Restart Steam"
+msgstr "Перезапустить Steam"
+
+msgid "Confirm before restarting Steam"
+msgstr "Подтверждать перезапуск Steam"
+
+msgid "Ask before closing a running Steam client to add an app."
+msgstr "Спрашивать перед закрытием запущенного Steam для добавления приложения."
+
+msgid "Steam was not found."
+msgstr "Steam не найден."
+
+msgid "Only AppImages and Windows programs (.exe) can be added to Steam."
+msgstr "В Steam можно добавить только AppImage и программы Windows (.exe)."
+
+msgid "%s was added to Steam and will run with Proton."
+msgstr "%s добавлено в Steam и будет запускаться через Proton."
+
+msgid "Add to Steam in Files"
+msgstr "Добавление в Steam из «Файлов»"
+
+msgid "Add AppImages and Windows programs (.exe) from right-click > Scripts in Files."
+msgstr "Добавляйте AppImage и программы Windows (.exe) через правый клик > Сценарии в «Файлах»."

@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shell-add-to-steam\n"
+"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add to Steam"
+msgstr "Añadir a Steam"
+
+msgid "Shell Add to Steam"
+msgstr "Shell Add to Steam"
+
+msgid "%s cannot be added to Steam."
+msgstr "%s no se puede añadir a Steam."
+
+msgid "No Steam account was found. Sign in to Steam first."
+msgstr "No se encontró ninguna cuenta de Steam. Inicia sesión en Steam primero."
+
+msgid "%s is already in your Steam library."
+msgstr "%s ya está en tu biblioteca de Steam."
+
+msgid "Steam did not close in time. Close it and try again."
+msgstr "Steam no se cerró a tiempo. Ciérralo e inténtalo de nuevo."
+
+msgid "%s was added to Steam."
+msgstr "%s se añadió a Steam."
+
+msgid "Could not add %s to Steam: %s"
+msgstr "No se pudo añadir %s a Steam: %s"
+
+msgid "Restart Steam?"
+msgstr "¿Reiniciar Steam?"
+
+msgid "Steam is running. It will be closed to add %s to your library and opened again afterwards."
+msgstr "Steam se está ejecutando. Se cerrará para añadir %s a tu biblioteca y se volverá a abrir después."
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Restart Steam"
+msgstr "Reiniciar Steam"
+
+msgid "Confirm before restarting Steam"
+msgstr "Confirmar antes de reiniciar Steam"
+
+msgid "Ask before closing a running Steam client to add an app."
+msgstr "Preguntar antes de cerrar Steam en ejecución para añadir una aplicación."
+
+msgid "Steam was not found."
+msgstr "No se encontró Steam."
+
+msgid "Only AppImages and Windows programs (.exe) can be added to Steam."
+msgstr "Solo se pueden añadir a Steam AppImages y programas de Windows (.exe)."
+
+msgid "%s was added to Steam and will run with Proton."
+msgstr "%s se añadió a Steam y se ejecutará con Proton."
+
+msgid "Add to Steam in Files"
+msgstr "Añadir a Steam en Archivos"
+
+msgid "Add AppImages and Windows programs (.exe) from right-click > Scripts in Files."
+msgstr "Añade AppImages y programas de Windows (.exe) desde clic derecho > Scripts en Archivos."

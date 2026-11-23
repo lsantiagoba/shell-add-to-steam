@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shell-add-to-steam\n"
+"Language: zh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add to Steam"
+msgstr "添加到 Steam"
+
+msgid "Shell Add to Steam"
+msgstr "Shell Add to Steam"
+
+msgid "%s cannot be added to Steam."
+msgstr "无法将 %s 添加到 Steam。"
+
+msgid "No Steam account was found. Sign in to Steam first."
+msgstr "未找到 Steam 账户。请先登录 Steam。"
+
+msgid "%s is already in your Steam library."
+msgstr "%s 已在您的 Steam 库中。"
+
+msgid "Steam did not close in time. Close it and try again."
+msgstr "Steam 未能及时关闭。请关闭后重试。"
+
+msgid "%s was added to Steam."
+msgstr "已将 %s 添加到 Steam。"
+
+msgid "Could not add %s to Steam: %s"
+msgstr "无法将 %s 添加到 Steam：%s"
+
+msgid "Restart Steam?"
+msgstr "重启 Steam？"
+
+msgid "Steam is running. It will be closed to add %s to your library and opened again afterwards."
+msgstr "Steam 正在运行。将关闭它以便把 %s 添加到您的库中，然后重新打开。"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Restart Steam"
+msgstr "重启 Steam"
+
+msgid "Confirm before restarting Steam"
+msgstr "重启 Steam 前确认"
+
+msgid "Ask before closing a running Steam client to add an app."
+msgstr "关闭正在运行的 Steam 以添加应用前进行询问。"
+
+msgid "Steam was not found."
+msgstr "未找到 Steam。"
+
+msgid "Only AppImages and Windows programs (.exe) can be added to Steam."
+msgstr "只有 AppImage 和 Windows 程序（.exe）可以添加到 Steam。"
+
+msgid "%s was added to Steam and will run with Proton."
+msgstr "已将 %s 添加到 Steam，并将使用 Proton 运行。"
+
+msgid "Add to Steam in Files"
+msgstr "在“文件”中添加到 Steam"
+
+msgid "Add AppImages and Windows programs (.exe) from right-click > Scripts in Files."
+msgstr "在“文件”中通过右键 > 脚本添加 AppImage 和 Windows 程序（.exe）。"

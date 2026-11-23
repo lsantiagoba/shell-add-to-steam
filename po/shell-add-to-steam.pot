@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shell-add-to-steam\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add to Steam"
+msgstr ""
+
+msgid "Shell Add to Steam"
+msgstr ""
+
+msgid "%s cannot be added to Steam."
+msgstr ""
+
+msgid "No Steam account was found. Sign in to Steam first."
+msgstr ""
+
+msgid "%s is already in your Steam library."
+msgstr ""
+
+msgid "Steam did not close in time. Close it and try again."
+msgstr ""
+
+msgid "%s was added to Steam."
+msgstr ""
+
+msgid "Could not add %s to Steam: %s"
+msgstr ""
+
+msgid "Restart Steam?"
+msgstr ""
+
+msgid "Steam is running. It will be closed to add %s to your library and opened again afterwards."
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Restart Steam"
+msgstr ""
+
+msgid "Confirm before restarting Steam"
+msgstr ""
+
+msgid "Ask before closing a running Steam client to add an app."
+msgstr ""
+
+msgid "Steam was not found."
+msgstr ""
+
+msgid "Only AppImages and Windows programs (.exe) can be added to Steam."
+msgstr ""
+
+msgid "%s was added to Steam and will run with Proton."
+msgstr ""
+
+msgid "Add to Steam in Files"
+msgstr ""
+
+msgid "Add AppImages and Windows programs (.exe) from right-click > Scripts in Files."
+msgstr ""

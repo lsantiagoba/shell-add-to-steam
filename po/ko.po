@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shell-add-to-steam\n"
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add to Steam"
+msgstr "Steam에 추가"
+
+msgid "Shell Add to Steam"
+msgstr "Shell Add to Steam"
+
+msgid "%s cannot be added to Steam."
+msgstr "%s을(를) Steam에 추가할 수 없습니다."
+
+msgid "No Steam account was found. Sign in to Steam first."
+msgstr "Steam 계정을 찾을 수 없습니다. 먼저 Steam에 로그인하세요."
+
+msgid "%s is already in your Steam library."
+msgstr "%s은(는) 이미 Steam 라이브러리에 있습니다."
+
+msgid "Steam did not close in time. Close it and try again."
+msgstr "Steam이 제시간에 종료되지 않았습니다. Steam을 닫고 다시 시도하세요."
+
+msgid "%s was added to Steam."
+msgstr "%s을(를) Steam에 추가했습니다."
+
+msgid "Could not add %s to Steam: %s"
+msgstr "%s을(를) Steam에 추가할 수 없습니다: %s"
+
+msgid "Restart Steam?"
+msgstr "Steam을 다시 시작할까요?"
+
+msgid "Steam is running. It will be closed to add %s to your library and opened again afterwards."
+msgstr "Steam이 실행 중입니다. %s을(를) 라이브러리에 추가하기 위해 Steam을 종료한 후 다시 엽니다."
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Restart Steam"
+msgstr "Steam 다시 시작"
+
+msgid "Confirm before restarting Steam"
+msgstr "Steam을 다시 시작하기 전에 확인"
+
+msgid "Ask before closing a running Steam client to add an app."
+msgstr "앱을 추가하기 위해 실행 중인 Steam을 종료하기 전에 묻습니다."
+
+msgid "Steam was not found."
+msgstr "Steam을 찾을 수 없습니다."
+
+msgid "Only AppImages and Windows programs (.exe) can be added to Steam."
+msgstr "AppImage와 Windows 프로그램(.exe)만 Steam에 추가할 수 있습니다."
+
+msgid "%s was added to Steam and will run with Proton."
+msgstr "%s을(를) Steam에 추가했습니다. Proton으로 실행됩니다."
+
+msgid "Add to Steam in Files"
+msgstr "파일에서 Steam에 추가"
+
+msgid "Add AppImages and Windows programs (.exe) from right-click > Scripts in Files."
+msgstr "파일에서 오른쪽 클릭 > 스크립트로 AppImage와 Windows 프로그램(.exe)을 추가합니다."

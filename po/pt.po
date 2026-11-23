@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shell-add-to-steam\n"
+"Language: pt\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add to Steam"
+msgstr "Adicionar ao Steam"
+
+msgid "Shell Add to Steam"
+msgstr "Shell Add to Steam"
+
+msgid "%s cannot be added to Steam."
+msgstr "%s não pode ser adicionado ao Steam."
+
+msgid "No Steam account was found. Sign in to Steam first."
+msgstr "Nenhuma conta Steam foi encontrada. Entre no Steam primeiro."
+
+msgid "%s is already in your Steam library."
+msgstr "%s já está na sua biblioteca Steam."
+
+msgid "Steam did not close in time. Close it and try again."
+msgstr "O Steam não fechou a tempo. Feche-o e tente novamente."
+
+msgid "%s was added to Steam."
+msgstr "%s foi adicionado ao Steam."
+
+msgid "Could not add %s to Steam: %s"
+msgstr "Não foi possível adicionar %s ao Steam: %s"
+
+msgid "Restart Steam?"
+msgstr "Reiniciar o Steam?"
+
+msgid "Steam is running. It will be closed to add %s to your library and opened again afterwards."
+msgstr "O Steam está em execução. Ele será fechado para adicionar %s à sua biblioteca e aberto novamente em seguida."
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Restart Steam"
+msgstr "Reiniciar o Steam"
+
+msgid "Confirm before restarting Steam"
+msgstr "Confirmar antes de reiniciar o Steam"
+
+msgid "Ask before closing a running Steam client to add an app."
+msgstr "Perguntar antes de fechar o Steam em execução para adicionar um aplicativo."
+
+msgid "Steam was not found."
+msgstr "O Steam não foi encontrado."
+
+msgid "Only AppImages and Windows programs (.exe) can be added to Steam."
+msgstr "Somente AppImages e programas do Windows (.exe) podem ser adicionados ao Steam."
+
+msgid "%s was added to Steam and will run with Proton."
+msgstr "%s foi adicionado ao Steam e será executado com o Proton."
+
+msgid "Add to Steam in Files"
+msgstr "Adicionar ao Steam no Arquivos"
+
+msgid "Add AppImages and Windows programs (.exe) from right-click > Scripts in Files."
+msgstr "Adicione AppImages e programas do Windows (.exe) pelo clique direito > Scripts no Arquivos."
